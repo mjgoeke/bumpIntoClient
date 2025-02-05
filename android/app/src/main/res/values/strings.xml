@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">BumpInto</string>
+    <string name="title_activity_main">BumpInto</string>
+    <string name="package_name">com.diamondhandsllc.bumpinto</string>
+    <string name="custom_url_scheme">com.diamondhandsllc.bumpinto</string>
+</resources>
